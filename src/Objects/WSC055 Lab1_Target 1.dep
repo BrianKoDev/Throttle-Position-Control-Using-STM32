@@ -1,21 +1,0 @@
-Dependencies for Project 'WSC055 Lab1', Target 'Target 1': (DO NOT MODIFY !)
-CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
-F (.\main.c)(0x622F8149)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include -I ..\..\..\..\..\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include -I ..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F303xC-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
-I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x602585E4)
-I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x602585EC)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\stm32f3xx.h)(0x54E1DA8C)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\stm32f303xc.h)(0x54E1DA8C)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898BA0A)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898BA0A)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898BA0A)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\system_stm32f3xx.h)(0x54E1DA8C)
-F (.\system_stm32f3xx.c)(0x6040F6FE)(--c99 -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include -I ..\..\..\..\..\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include -I ..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F303xC-o .\objects\system_stm32f3xx.o --omf_browse .\objects\system_stm32f3xx.crf --depend .\objects\system_stm32f3xx.d)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\stm32f3xx.h)(0x54E1DA8C)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\stm32f303xc.h)(0x54E1DA8C)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898BA0A)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602585EE)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898BA0A)
-I (..\..\..\..\AppData\Local\Arm\Packs\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898BA0A)
-I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include\system_stm32f3xx.h)(0x54E1DA8C)
-F (.\startup_stm32f303xc.s)(0x6040F6FE)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\1.4.0\Device\Include--pd "__UVISION_VERSION SETA 536" --pd "STM32F303xC SETA 1"--list .\listings\startup_stm32f303xc.lst --xref -o .\objects\startup_stm32f303xc.o --depend .\objects\startup_stm32f303xc.d)
